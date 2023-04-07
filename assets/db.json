@@ -1,0 +1,11 @@
+[
+  {
+    "id": "Admin",
+    "name": "Mahesh",
+    "password": "Admin@1234",
+    "email": "admin@techlearn.com",
+    "gender": "male",
+    "role": "admin",
+    "isactive": true
+  }
+]
